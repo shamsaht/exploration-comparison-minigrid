@@ -32,3 +32,13 @@ The agents are evaluated on:
 ```bash
 git clone git@github.com:shamsaht/exploration-comparison-minigrid.git
 cd exploration-comparison-minigrid
+```
+## Project Info
+
+This is a group project submitted for the course **ML702** at **Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)**.
+
+## Contributors
+
+- [Shamsa Hamad](https://github.com/shamsaht)
+- Maryam Al Shamsi 
+- Shaikha Al Hosani
