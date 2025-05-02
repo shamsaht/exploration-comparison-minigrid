@@ -41,4 +41,4 @@ This is a group project submitted for the course **ML702** at **Mohamed Bin Zaye
 
 - [Shamsa Hamad](https://github.com/shamsaht)
 - Maryam Al Shamsi 
-- Shaikha Al Hosani
+- [Shaikha Al Hosani](https://github.com/Shaikha-jasem)
